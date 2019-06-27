@@ -1,0 +1,4094 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Amelia\n"
+"POT-Creation-Date: 2019-06-15 17:36+0500\n"
+"PO-Revision-Date: 2019-06-16 19:28+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ameliabooking.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:24
+msgid "All Locations"
+msgstr "Все места"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:25
+msgid "All Services"
+msgstr "Все услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:26
+msgid "Approved"
+msgstr "Оплачено"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:27
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:73
+msgid "Cancel"
+msgstr "Отменить"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:28
+msgid "Canceled"
+msgstr "Отменено"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:29
+msgid "Close"
+msgstr "Закрыть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:30
+msgid "Select Delimiter"
+msgstr "Выбор Разделителя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:31
+msgid "Comma (,)"
+msgstr "Запятая (,)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:32
+msgid "Semicolon (;)"
+msgstr "Точка с запятой (;)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:33
+msgid "Customer"
+msgstr "Клиент"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:34
+msgid "Date"
+msgstr "Дата"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:35
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:214
+msgid "Description"
+msgstr "Описание"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:36
+msgid "Details"
+msgstr "Детали"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:37
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:38
+msgid "Edit"
+msgstr "Редактировать"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:39
+#: src/Infrastructure/WP/Translations/BackendStrings.php:840
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:92
+msgid "example@mail.com"
+msgstr "example@mail.com"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:40
+#: src/Infrastructure/WP/Translations/BackendStrings.php:220
+msgid "Employee"
+msgstr "Сотрудник"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:41
+#: src/Infrastructure/WP/Translations/BackendStrings.php:221
+msgid "Employees"
+msgstr "Сотрудники"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:42
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:95
+msgid "Please enter email"
+msgstr "Введите эл. почту (email)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:43
+#: src/Infrastructure/WP/Translations/BackendStrings.php:398
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:99
+msgid "Please enter a valid email address"
+msgstr "Введите правильную эл. почту (email)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:44
+msgid "Error"
+msgstr "Ошибка"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:45
+msgid "Export"
+msgstr "Экспорт"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:46
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:216
+msgid "Extras"
+msgstr "Дополнительный"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:47
+msgid "Google Calendar"
+msgstr "Google Календарь"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:48
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:104
+msgid "h"
+msgstr "ч"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:49
+msgid "Location"
+msgstr "Место"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:50
+msgid "Locations"
+msgstr "Места"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:51
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:113
+msgid "min"
+msgstr "мин"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:52
+msgid "Name"
+msgstr "Имя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:53
+#: src/Infrastructure/WP/Translations/BackendStrings.php:739
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:156
+msgid "Name Ascending"
+msgstr "По возрастанию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:54
+#: src/Infrastructure/WP/Translations/BackendStrings.php:740
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:157
+msgid "Name Descending"
+msgstr "По убыванию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:55
+msgid "Need Help"
+msgstr "Нужна помощь"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:56
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:114
+msgid "No"
+msgstr "Нет"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:57
+msgid "You don't have any employees here yet..."
+msgstr "У вас здесь пока нет сотрудников..."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:58
+msgid "There are no results..."
+msgstr "Нет результатов..."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:59
+msgid "You don't have any services here yet..."
+msgstr "У вас здесь еще нет никаких услуг..."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:60
+#: src/Infrastructure/WP/Translations/BackendStrings.php:831
+msgid "Note"
+msgstr "Отметить"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:61
+#: src/Infrastructure/WP/Translations/BackendStrings.php:848
+msgid "Note (Internal)"
+msgstr "Отметить (Внутренне)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:62
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:160
+msgid "of"
+msgstr "из"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:63
+msgid "OK"
+msgstr "ОК"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:64
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:116
+msgid "On-site"
+msgstr "На месте"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:65
+#: src/Infrastructure/WP/Translations/BackendStrings.php:897
+#: src/Infrastructure/WP/Translations/BackendStrings.php:927
+msgid "Paid"
+msgstr "Оплачено"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:66
+msgid "Payment"
+msgstr "Платеж"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:67
+#: src/Infrastructure/WP/Translations/BackendStrings.php:901
+msgid "Pending"
+msgstr "Ожидание"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:68
+msgid "Period"
+msgstr "Период"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:69
+msgid "Phone"
+msgstr "Телефон"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:70
+msgid ""
+"<p>The <strong>Amelia</strong> plugin requires PHP version 5.5 or greater.</"
+"p>"
+msgstr ""
+"<p>The <strong>Amelia</strong> plugin requires PHP version 5.5 or greater.</"
+"p>"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:71
+msgid "Plugin Activation Error"
+msgstr "Ошибка при активации плагина"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:72
+msgid "Pick a date range"
+msgstr "Выбор диапазона дат"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:73
+msgid "Rejected"
+msgstr "Отклонено"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:74
+msgid "Save"
+msgstr "Сохранить"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:75
+msgid "Select Time"
+msgstr "Выбрать время"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:76
+#: src/Infrastructure/WP/Translations/BackendStrings.php:222
+msgid "Service"
+msgstr "Услуга"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:77
+#: src/Infrastructure/WP/Translations/BackendStrings.php:223
+msgid "Services"
+msgstr "Услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:78
+msgid "Settings has been saved"
+msgstr "Все настройки сохранены"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:79
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:172
+msgid "Showing"
+msgstr "Показать"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:80
+msgid "Sort"
+msgstr "Род"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:81
+#: src/Infrastructure/WP/Translations/BackendStrings.php:776
+msgid "Status"
+msgstr "Статус"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:82
+msgid "Success"
+msgstr "Успех"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:83
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:174
+msgid "to"
+msgstr "в"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:84
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1037
+msgid "Today"
+msgstr "Сегодня"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:85
+msgid "Tomorrow"
+msgstr "Завтра"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:86
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1038
+msgid "Total"
+msgstr "Всего"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:87
+msgid "View"
+msgstr "Показать"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:88
+msgid "Friday"
+msgstr "Пятница"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:89
+msgid "Monday"
+msgstr "Понедельник"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:90
+msgid "Saturday"
+msgstr "Суббота"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:91
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:92
+msgid "Thursday"
+msgstr "Четверг"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:93
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:94
+msgid "Wednesday"
+msgstr "Среда"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:95
+msgid "Yes"
+msgstr "Да"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:107
+msgid "Activate"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:108
+msgid "Activation"
+msgstr "Активация"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:109
+msgid "Plugin has been activated"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:110
+msgid "Plugin has been deactivated"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:111
+msgid "It seems you don't have a valid purchase of Amelia"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:112
+msgid "Activation Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:113
+msgid ""
+"Use this setting to activate the plugin code so you can have access to auto "
+"updates of Amelia"
+msgstr ""
+"Используйте этот параметр, чтобы активировать код плагина, чтобы иметь "
+"доступ к автоматическим обновлениям Amelia"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:114
+msgid "You have reached maximum number of registered domains"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:115
+msgid "Activate the plugin by entering Purchase code or using Envato API."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:116
+msgid "The purchase code is invalid or it has expired"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:117
+msgid "Add New Role"
+msgstr "Добавить новую роль"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:118
+msgid "Show Add To Calendar option to customers"
+msgstr "Показать клиентам опцию \"Добавить в календарь\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:119
+msgid ""
+"Suggest customers to add an appointment to their calendar<br/>when booking "
+"is finalized."
+msgstr ""
+"Предложите клиентам добавить встречу в свой календарь<br/> после завершения "
+"бронирования."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:120
+#: src/Infrastructure/WP/Translations/BackendStrings.php:644
+msgid "Address"
+msgstr "Адрес"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:121
+msgid "After"
+msgstr "После"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:122
+msgid "After with space"
+msgstr "После с пробелом"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:123
+msgid "Allow booking below minimum capacity"
+msgstr "Allow booking below minimum capacity"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:124
+msgid "Configure their days off"
+msgstr "Настройка выходных дней"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:125
+msgid "Configure their schedule"
+msgstr "Настроить свой график"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:126
+msgid "Configure their special days"
+msgstr "Настройте их особые дни"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:127
+msgid "Allow booking above maximum capacity"
+msgstr "Allow booking above maximum capacity"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:128
+msgid ""
+"If this is disabled, your front-end customers won't be able to book "
+"appointment with Pending status above the maximum capacity.<br/>Once the "
+"maximum capacity is reached appointment will close and time slot will become "
+"unavailable."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:129
+msgid ""
+"If this is disabled, your front-end customers won't be able to submit a "
+"booking unless they fill in the minimum service capacity,<br/>but once they "
+"book for any capacity above minimum, the time slot will become unavailable "
+"for booking for others.<br/>If enabled, multiple customers will be able to "
+"book the same time slot, without having to fill in the minimum capacity."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:130
+msgid "Allow customers to reschedule their own appointments"
+msgstr "Разрешить клиентам перенести свои встречи"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:131
+msgid ""
+"Enable this option if you want to allow your customers to reschedule their "
+"own appointments."
+msgstr ""
+"Включите эту опцию, если вы хотите позволить своим клиентам перепланировать "
+"свои встречи."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:132
+msgid "Manage their appointments"
+msgstr "Управляйте своими назначениями"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:133
+msgid "Amelia Role"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:134
+#: src/Infrastructure/WP/Translations/BackendStrings.php:952
+msgid "Appointments"
+msgstr "Заказы"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:135
+msgid "Appointments Settings"
+msgstr "Настройка встреч"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:136
+msgid "Use these settings to manage frontend bookings"
+msgstr "Используйте эти настройки для управления бронированиями веб-интерфейса"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:137
+msgid "Automatically create Amelia Customer user"
+msgstr "Автоматически создавать пользователя Amelia Клиент"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:138
+msgid ""
+"If you enable this option every time a new customer schedules the "
+"appointment<br/>he will get Amelia Customer user role and automatic email "
+"with login details."
+msgstr ""
+"Если вы включите эту опцию, каждый раз когда новый клиент назначит встречу "
+"<br/>, он получит роль пользователя Amelia Customer и автоматическое "
+"электронное письмо с данными для входа."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:139
+msgid "Send all notifications to the additional address"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:140
+msgid "Please enter email address"
+msgstr "Введите эл. почту (email)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:141
+msgid ""
+"Here you can enter an email address where all notifications will be sent."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:142
+msgid "Before"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:143
+msgid "Before with space"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:144
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1028
+msgid "Calendar"
+msgstr "Календарь"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:145
+msgid "Unsuccessful Cancellation Redirect URL"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:146
+msgid ""
+"URL on which will user be redirected if appointment can't be canceled<br/"
+">because of 'Minimum time required before canceling' value"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:147
+msgid "Successful Cancellation Redirect URL"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:148
+msgid "Please enter URL"
+msgstr "Введите ссылку (URL)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:149
+msgid "CodeCanyon Purchase Code"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:150
+msgid "Comma-Dot"
+msgstr "Запятая-Точка"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:151
+msgid "Company"
+msgstr "Компания"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:152
+msgid "Company Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:153
+msgid ""
+"Use these settings to set up picture, name, address, phone and website of "
+"your company"
+msgstr ""
+"Используйте эти настройки, чтобы настроить изображение, имя, адрес, телефон "
+"и веб-сайт вашей компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:154
+#: src/Infrastructure/WP/Translations/BackendStrings.php:877
+msgid "Coupons"
+msgstr "Купоны"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:155
+msgid "Currency"
+msgstr "Валюта"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:156
+#: src/Infrastructure/WP/Translations/BackendStrings.php:966
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1062
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:84
+msgid "Custom Fields"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:157
+msgid "Add/edit custom fields"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:158
+msgid "Custom fields settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:159
+msgid "Add Event's Attendees"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:160
+msgid ""
+"Enable this option if you want your employees to see<br/>in the event "
+"customers that attend the appointment."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:161
+#: src/Infrastructure/WP/Translations/BackendStrings.php:552
+msgid "Dashboard"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:162
+msgid "1 day"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:163
+msgid "2 days"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:164
+msgid "3 days"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:165
+msgid "4 days"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:166
+msgid "5 days"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:167
+msgid "6 days"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:168
+msgid "Days Off Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:169
+msgid ""
+"Use these settings to set company working hours and days off which will be "
+"applied for every employee"
+msgstr ""
+"Используйте эти настройки, чтобы установить рабочее время и выходные дни "
+"компании, которые будут применяться для каждого сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:170
+msgid "Deactivate"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:171
+msgid "Default Appointment Status"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:172
+msgid "All appointments will be scheduled with the<br/>status you choose here."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:173
+msgid "Default items per page"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:174
+msgid "Default page on back-end"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:175
+msgid "Default Payment Method"
+msgstr "Метод оплаты по умолчанию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:176
+msgid "Default phone country code"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:177
+msgid "Default Time Slot Step"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:178
+msgid ""
+"The Time Slot Step you define here will be applied<br/>for all time slots in "
+"the plugin."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:179
+#: src/Infrastructure/WP/Translations/BackendStrings.php:309
+msgid "Disabled"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:180
+msgid "Dot-Comma"
+msgstr "Точка-Запятая"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:181
+msgid "Enable Labels Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:182
+msgid ""
+"Disable this option if you want to translate these<br/>strings using the "
+"third party translation plugin."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:183
+msgid "Enabled"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:184
+msgid "Please enter a valid URL with protocol (http:// or https://)"
+msgstr ""
+"Введите правильную ссылку (URL) с протоколом SSL (http:// или https://)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:185
+msgid "Envato API"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:186
+msgid "Activate with Envato"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:187
+msgid "Activated with Envato"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:188
+msgid "Event Description"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:189
+msgid ""
+"Description of the event that will be displayed in the Google Calendar.<br/"
+">You can find available placeholders on the Notifications page."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:190
+msgid "Event Title"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:191
+msgid ""
+"Title of the event that will be displayed in the Google Calendar.<br/>You "
+"can find available placeholders on the Notifications page."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:192
+msgid "General"
+msgstr "Главные"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:193
+msgid "General Settings"
+msgstr "Главные настройки"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:194
+msgid ""
+"Use these settings to define plugin general settings and default settings "
+"for your services and appointments"
+msgstr ""
+"Используйте эти настройки для определения общих настроек плагина и настроек "
+"по умолчанию для ваших услуг и встреч"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:195
+msgid "Google Map API Key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:196
+msgid ""
+"Add Google Map API Key to show Google static map on<br/>\"Locations\" page."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:197
+msgid "Google Calendar Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:198
+msgid ""
+"Allow synchronizing employee's calendar with Google Calendar for smoother "
+"personal scheduling"
+msgstr ""
+"Разрешить синхронизацию календаря сотрудника с Календарем Google для более "
+"плавного планирования"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:199
+msgid "Client ID"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:200
+msgid "Client Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:201
+msgid "Click here to see how to obtain<br/>Google Client ID and Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:202
+msgid "Redirect URI"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:203
+msgid ""
+"This is the path in your application that users are redirected to after<br/"
+">they have authenticated with Google. Add this URI in your Google<br/"
+">project credentials under \"Authorized redirect URIs\"."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:204
+msgid "1h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:205
+msgid "10h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:206
+msgid "11h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:207
+msgid "12h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:208
+msgid "1h 30min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:209
+msgid "2h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:210
+msgid "3h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:211
+msgid "4h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:212
+msgid "6h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:213
+msgid "8h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:214
+msgid "9h"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:215
+msgid "Insert Pending Appointments"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:216
+msgid ""
+"Enable this option if you want your employees to see<br/>appointments with "
+"pending status in their calendar."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:217
+msgid "Check customer's name for existing email when booking"
+msgstr ""
+"Проверьте имя клиента для существующего адреса электронной почты при "
+"бронировании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:218
+msgid ""
+"Enable this option if you don't want to allow \"existing customer\"<br/>to "
+"use different first and last name when booking."
+msgstr ""
+"Включите эту опцию, если вы не хотите, чтобы «существующий клиент» <br/> "
+"использовал другое имя и фамилию при бронировании."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:219
+msgid "Instructions"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:224
+msgid "Labels"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:225
+msgid "Labels Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:226
+msgid "Use these settings to change labels on frontend pages"
+msgstr ""
+"Используйте эти настройки для изменения меток на страницах внешнего "
+"интерфейса"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:227
+msgid "Limit Number of Fetched Events"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:228
+msgid "Live Client ID"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:229
+msgid "Live Publishable Key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:230
+msgid "Live Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:231
+msgid "Live Secret Key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:232
+msgid "Mail Service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:233
+msgid "Mailgun"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:234
+msgid "Mailgun API Key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:235
+msgid "Please enter Mailgun API key"
+msgstr "Введите ключ Mailgun API"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:236
+msgid "Mailgun Domain"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:237
+msgid "Please enter Mailgun Domain"
+msgstr "Введите домен Mailgun"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:238
+msgid "1min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:239
+msgid "10min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:240
+msgid "12min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:241
+msgid "15min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:242
+msgid "2min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:243
+msgid "20min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:244
+msgid "30min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:245
+msgid "45min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:246
+msgid "5min"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:247
+msgid "Minimum time required before booking"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:248
+msgid ""
+"Set the time before the appointment when customers<br/>will not be able to "
+"book the appointment."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:249
+msgid "Minimum time required before canceling"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:250
+msgid ""
+"Set the time before the appointment when customers<br/>will not be able to "
+"cancel the appointment."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:251
+msgid "3 months"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:252
+msgid "6 months"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:253
+msgid "Notification"
+msgstr "Уведомление"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:254
+msgid "Notification Settings"
+msgstr "Настройка уведомлений"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:255
+msgid ""
+"Use these settings to set your mail settings which will be used to notify "
+"your customers and employees"
+msgstr ""
+"Используйте эти настройки, чтобы установить настройки почты, которые будут "
+"использоваться для уведомления ваших клиентов и сотрудников"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:256
+msgid "Notify the customer(s) by default"
+msgstr "Уведомлять клиентов по умолчанию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:257
+msgid "Maximum Number Of Events Returned"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:258
+msgid ""
+"Maximum number of events returned on one result page.<br/>It is recommended "
+"to use smaller number of returned<br/>events if your server performance is "
+"not so good."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:259
+#: src/Infrastructure/WP/Translations/BackendStrings.php:899
+msgid "Payments"
+msgstr "Платежы"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:260
+msgid "Payments Settings"
+msgstr "Настройка платежа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:261
+msgid ""
+"Use these settings to set price format, payment method and coupons that will "
+"be used in all bookings"
+msgstr ""
+"Используйте эти настройки, чтобы установить формат цены, способ оплаты и "
+"купоны, которые будут использоваться во всех бронированиях"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:262
+#: src/Infrastructure/WP/Translations/BackendStrings.php:429
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:117
+msgid "PayPal"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:263
+msgid "Please enter live ClientId"
+msgstr "Введите live ClientId"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:264
+msgid "Please enter live Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:265
+msgid "PayPal Service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:266
+msgid "Please enter test ClientId"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:267
+msgid "Please enter test Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:268
+msgid "Period available for booking in advance"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:269
+msgid "Set how far customers can book."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:270
+msgid "PHP Mail"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:271
+#, php-format
+msgid ""
+"To receive automatic updates license activation is required. Please visit %s "
+"to activate Amelia."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:272
+msgid "Price Number Of Decimals"
+msgstr "Количество десятичных знаков"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:273
+msgid "Price Separator"
+msgstr "Разделитель цен"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:274
+msgid "Price Symbol Position"
+msgstr "Положение символа цены"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:275
+msgid "Purchase code"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:276
+msgid "Redirect URL After Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:277
+msgid ""
+"Customer will be redirected to this URL once he schedules the appointment."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:278
+msgid "Remove Google Calendar Busy Slots"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:279
+msgid ""
+"Enable this option if you want to remove busy slots in<br/>Google Calendar "
+"from Employee's working schedule."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:280
+msgid "Set email as a mandatory field"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:281
+msgid "Set a phone number as a mandatory field"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:282
+msgid "Rest App Client ID"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:283
+msgid "Rest App Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:284
+msgid "Roles Settings"
+msgstr "Настройки ролей"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:285
+msgid ""
+"Use these settings to define settings that will be applied for the specific "
+"Amelia roles"
+msgstr ""
+"Используйте эти параметры, чтобы определить параметры, которые будут "
+"применяться для определенных ролей Amelia"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:286
+msgid "Sandbox Mode"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:287
+msgid "Send Event Invitation Email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:288
+msgid ""
+"Enable this option if you want your customers to<br/>receive an email about "
+"the event."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:289
+msgid "Sender Email"
+msgstr "Почта отправителя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:290
+msgid "Please enter sender email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:291
+msgid "Sender Name"
+msgstr "Имя отправителя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:292
+msgid "Please enter sender name"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:293
+msgid "Use service duration for booking a time slot"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:294
+msgid ""
+"Enable this option if you want to make time slot step<br/>the same as "
+"service duration in the booking process"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:295
+msgid "Settings"
+msgstr "Настройки (ТОЛЬКО ДЛЯ РАЗРАБОТЧИКА)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:296
+msgid "settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:297
+msgid "Allow customers to see other attendees"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:298
+msgid ""
+"Enable this option if you want your customers to see<br/>all attendees in "
+"the appointment in their google calendar."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:299
+msgid "Show booking slots in client time zone"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:300
+msgid ""
+"Enable this option if you want to show booking slots<br/>in client time zone."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:301
+msgid "SMTP"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:302
+msgid "SMTP Host"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:303
+msgid "Please enter SMTP host"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:304
+msgid "SMTP Password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:305
+msgid "Please enter SMTP password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:306
+msgid "SMTP Port"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:307
+msgid "Please enter SMTP port"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:308
+msgid "SMTP Secure"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:310
+msgid "SSL"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:311
+msgid "TLS"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:312
+msgid "SMTP Username"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:313
+msgid "Please enter SMTP username"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:314
+msgid "Space-Comma"
+msgstr "Пробел-Запятая"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:315
+msgid "Space-Dot"
+msgstr "Пробел-Точка"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:316
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:128
+msgid "Stripe"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:317
+msgid "Please enter live publishable key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:318
+msgid "Please enter live secret key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:319
+msgid "Stripe Service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:320
+msgid ""
+"SSL (HTTPS) is not enabled. You will not be able to process live Stripe "
+"transactions until SSL is enabled."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:321
+msgid "Please enter test publishable key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:322
+msgid "Please enter test secret key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:323
+msgid "Template for Event Title"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:324
+msgid "Test Client ID"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:325
+msgid "Test Mode"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:326
+msgid "Test Publishable Key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:327
+msgid "Test Secret"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:328
+msgid "Test Secret Key"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:329
+msgid "2 Way Sync"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:330
+msgid "Unable to deactivate plugin. Please try again later."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:331
+#: src/Infrastructure/WP/Translations/BackendStrings.php:743
+msgid "Update for all"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:332
+msgid "View Activation Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:333
+msgid "View Appointments Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:334
+msgid "View Company Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:335
+msgid "View Working Hours & Days Off Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:336
+msgid "View General Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:337
+msgid "View Google Calendar Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:338
+msgid "View Labels Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:339
+msgid "View Notifications Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:340
+msgid "View Payments Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:341
+msgid "View Roles Settings"
+msgstr "Посмотреть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:342
+msgid "Enable integration with WooCommerce"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:343
+msgid "Website"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:344
+msgid "1 week"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:345
+msgid "2 weeks"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:346
+msgid "3 weeks"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:347
+msgid "4 weeks"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:348
+msgid "Working Hours & Days Off"
+msgstr "Рабочие часы и выходные дни"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:349
+msgid "WP Mail"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:350
+msgid "WP Role"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:362
+msgid "Accepted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:363
+msgid "Already have an account?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:364
+msgid "Amelia SMS"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:365
+msgid "Amount:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:366
+msgid "Balance:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:367
+msgid "Your balance has been recharged"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:368
+msgid "This payment cannot be completed"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:369
+msgid "This payment cannot be completed and your account has not been charged"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:370
+msgid "Carrier:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:371
+msgid "Change Alpha Sender ID"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:372
+msgid "Change Password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:373
+msgid "Cost:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:374
+msgid "To send this notification please add the following line in your cron"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:375
+msgid "Current Password:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:376
+msgid "Please enter current password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:377
+msgid "Custom Amount"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:378
+#: src/Infrastructure/WP/Translations/BackendStrings.php:464
+msgid "Appointment Approved"
+msgstr "Одобрение заказа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:379
+#: src/Infrastructure/WP/Translations/BackendStrings.php:465
+msgid "Appointment Canceled"
+msgstr "Отмена заказа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:380
+msgid "Appointment Follow Up"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:381
+#: src/Infrastructure/WP/Translations/BackendStrings.php:466
+msgid "Appointment Next Day Reminder"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:382
+#: src/Infrastructure/WP/Translations/BackendStrings.php:467
+msgid "Appointment Pending"
+msgstr "Ожидание заказа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:383
+#: src/Infrastructure/WP/Translations/BackendStrings.php:468
+msgid "Appointment Rejected"
+msgstr "Отклонение заказа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:384
+#: src/Infrastructure/WP/Translations/BackendStrings.php:469
+msgid "Appointment Rescheduled"
+msgstr "Перенос заказа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:385
+msgid "Birthday Greeting"
+msgstr "Поздравление с Днём рождения"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:386
+msgid "Customize SMS"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:387
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:86
+msgid "Date:"
+msgstr "Дата:"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:388
+msgid "Delivered"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:389
+msgid "Don't have an account?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:390
+#: src/Infrastructure/WP/Translations/BackendStrings.php:756
+msgid "Email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:391
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:89
+msgid "Email:"
+msgstr "Email (Почта):"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:392
+msgid "Email Notifications"
+msgstr "Уведомление по почте (Email)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:393
+msgid "Email Placeholders"
+msgstr "Email Автозаполнители"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:394
+msgid "This email address is already being used"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:395
+msgid "Please enter password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:396
+msgid "Please enter recipient email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:397
+msgid "Please enter recipient phone"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:399
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:100
+msgid "Please enter a valid phone number"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:400
+msgid "Failed"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:401
+msgid "Forgot Password?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:402
+msgid "You have entered an incorrect email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:403
+msgid "You have entered an incorrect password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:404
+msgid "Invalid Token"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:405
+msgid "Loading..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:406
+msgid "Logout"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:407
+msgid "Message:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:408
+msgid "messages"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:409
+msgid "New Password:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:410
+msgid "Please enter new password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:411
+msgid "There are no SMS messages..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:412
+msgid "Notification has not been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:413
+msgid "Notification has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:414
+msgid "Notification Template"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:415
+msgid "Notifications"
+msgstr "Уведомление"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:416
+msgid "Password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:417
+msgid "Password:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:418
+msgid "Password has been changed"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:419
+msgid "Password must have a length between 5 and 40 characters"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:420
+msgid "Your password has been reset successfully"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:421
+msgid "Password must not contain whitespace"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:422
+msgid "Passwords do not match"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:423
+msgid "Including PayPal Processing Fee of"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:424
+msgid "Payment History"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:425
+msgid "Unable to retrieve payments results"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:426
+msgid "Payment ID"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:427
+msgid "Payment ID:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:428
+#: src/Infrastructure/WP/Translations/BackendStrings.php:900
+msgid "payments"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:430
+msgid "Cancel Appointment Link"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:431
+msgid "Date of the appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:432
+msgid "Date & Time of the appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:433
+msgid "End time of the appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:434
+msgid "Appointment notes"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:435
+msgid "Appointment price"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:436
+msgid "Start time of the appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:437
+msgid "Category name"
+msgstr "Имя категории"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:438
+msgid "Company address"
+msgstr "Адрес компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:439
+msgid "Company name"
+msgstr "Название компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:440
+msgid "Company phone"
+msgstr "Номер телефона компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:441
+msgid "Company website"
+msgstr "Web-сайт  компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:442
+msgid "Customer email"
+msgstr "Почта клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:443
+msgid "Customer first name"
+msgstr "Имя клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:444
+msgid "Customer full name"
+msgstr "Полное имя клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:445
+msgid "Customer last name"
+msgstr "Фамилия клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:446
+msgid "Customer phone"
+msgstr "Номер телефона клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:447
+msgid "Employee email"
+msgstr "Почта сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:448
+msgid "Employee first name"
+msgstr "Имя сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:449
+msgid "Employee full name"
+msgstr "Полное имя сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:450
+msgid "Employee last name"
+msgstr "Фамилия сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:451
+msgid "Employee phone"
+msgstr "Номер телефона сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:452
+msgid "Employee photo"
+msgstr "Фотография сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:453
+msgid "Location address"
+msgstr "Адрес места"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:454
+msgid "Location name"
+msgstr "Название места"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:455
+msgid "Service description"
+msgstr "Описание услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:456
+msgid "Service duration"
+msgstr "Продолжительность услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:457
+msgid "Service name"
+msgstr "Название услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:458
+msgid "Service price"
+msgstr "Цена услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:459
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:121
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:460
+msgid "Prepared"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:461
+#: src/Infrastructure/WP/Translations/BackendStrings.php:721
+#: src/Infrastructure/WP/Translations/BackendStrings.php:809
+msgid "Price"
+msgstr "Цена"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:462
+msgid "Pricing"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:463
+msgid "Unable to retrieve pricing"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:470
+msgid "Queued"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:471
+msgid "Please enter new password again"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:472
+msgid "Recharge"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:473
+msgid "Recharge Balance"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:474
+msgid "Recharge Custom Amount"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:475
+msgid "Recipient Email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:476
+msgid "Recipient Phone"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:477
+msgid "Account recovery email has been sent"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:478
+msgid "Refresh"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:479
+msgid "Requires Scheduling Setup"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:480
+msgid "Reset Password"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:481
+msgid "Re-type New Password:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:482
+msgid "Scheduled After Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:483
+msgid "Scheduled For Before Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:484
+msgid "Scheduled For"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:485
+msgid "Security"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:486
+msgid "Segments:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:487
+msgid "Please select email template"
+msgstr "Выберите шаблон письма"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:488
+msgid "Send"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:489
+msgid "Send Recovery Email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:490
+msgid "Send Test Email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:491
+msgid "Send Test SMS"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:492
+msgid "Alpha Sender ID:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:493
+msgid "Special characters are not allowed"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:494
+msgid "Sender ID supports up to 11 characters"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:495
+msgid "Your ID must include at least one letter"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:496
+msgid "Alpha Sender ID can't be empty"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:497
+msgid "Alpha Sender ID has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:498
+msgid "Sent"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:499
+msgid "</> Show Email Placeholders"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:500
+msgid "</> Show SMS Placeholders"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:501
+msgid "Sign In"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:502
+msgid "Sign Up"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:503
+msgid "SMS History"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:504
+msgid "SMS Notifications"
+msgstr "Уведомление по SMS"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:505
+msgid "SMS Placeholders"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:506
+msgid "Status:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:507
+msgid "Subject"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:508
+msgid "Email has not been sent"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:509
+msgid "Email has been sent"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:510
+msgid ""
+"To be able to send test email please configure \"Sender Email\" in "
+"Notification Settings."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:511
+msgid "SMS has not been sent"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:512
+msgid "SMS has been sent"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:513
+msgid "To be able to send test SMS please recharge your balance."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:514
+msgid "Text:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:515
+#: src/Infrastructure/WP/Translations/BackendStrings.php:564
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1001
+msgid "Time"
+msgstr "Время"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:516
+msgid "Time:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:517
+msgid "To Customer"
+msgstr "Клиент"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:518
+msgid "To Employee"
+msgstr "Сотрудник"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:519
+msgid "Token has been expired"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:520
+msgid "Total Price:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:521
+msgid "Type"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:522
+msgid "Type:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:523
+msgid "Undelivered"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:524
+msgid "User:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:525
+msgid "User Profile"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:526
+msgid "View Message"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:527
+msgid "View pricing for:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:528
+msgid "View Profile"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:541
+msgid "# of appointments"
+msgstr "# заказов"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:542
+msgid "Sum of payments"
+msgstr "Сумма выплаты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:543
+msgid "# of Hours in appointment"
+msgstr "# часов за заказами"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:544
+#, php-format
+msgid "% of load"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:545
+msgid "Approved Appointments"
+msgstr "Клиенты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:546
+msgid ""
+"Indicates the number of approved appointments<br/>for a chosen date range."
+msgstr ""
+"Указывает количество одобренных услуг<br/> для выбранного диапазона дат."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:547
+msgid "Average Bookings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:548
+msgid ""
+"Shows the average number of bookings per day<br/>for the selected date range."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:549
+msgid "Interests / Conversions"
+msgstr "Интересы / Конверсии"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:550
+msgid ""
+"Shows the number of views for the employee/service/location<br/>vs. the "
+"number of times they were booked during<br/>the selected date range."
+msgstr ""
+"Показывает количество просмотров для сотрудника/услуги/места<br/> в "
+"сравнении с количеством раз, когда они были<br/>забронированы в течение "
+"выбранного диапазона дат."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:551
+msgid ""
+"Indicates the number of new and returning customers<br/>for the selected "
+"date range."
+msgstr ""
+"Указывает количество новых и возвращающихся клиентов<br/> для выбранного "
+"диапазона дат."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:553
+msgid "New"
+msgstr "Новые"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:554
+msgid "There are no appointments for today"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:555
+msgid "You don't have any upcoming appointments yet"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:556
+#: src/Infrastructure/WP/Translations/BackendStrings.php:849
+msgid "Pending Appointments"
+msgstr "ожидание заказа "
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:557
+msgid ""
+"Shows the number of pending appointments<br/>in the selected date range."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:558
+msgid "Percentage of Load"
+msgstr "Процент нагрузки"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:559
+msgid ""
+"Indicates the percentage of occupied time against available time for "
+"appointments<br/>in the chosen date range."
+msgstr ""
+"Указывает процент занятого времени по отношению к доступному времени для "
+"заказов<br/> в выбранном диапазоне дат."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:560
+msgid "Returning"
+msgstr "Вернулись"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:561
+msgid "Revenue"
+msgstr "Оборот"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:562
+msgid ""
+"Shows the total income for paid appointments<br/>in the chosen date range."
+msgstr ""
+"Показывает общий доход за оплаченные услуги<br/> в выбранном диапазоне дат."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:563
+msgid "Scheduled Appointments"
+msgstr "Заказ"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:565
+msgid "Today's appointments"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:566
+msgid "Views"
+msgstr "Посмотр"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:567
+msgid "Hello"
+msgstr "Привет,"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:568
+msgid "You have"
+msgstr "У вас"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:569
+msgid "and"
+msgstr "и"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:570
+msgid "for today"
+msgstr "сегодня"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:571
+msgid "Upcoming appointments"
+msgstr "Ближайший заказ"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:583
+msgid "Add Break"
+msgstr "Добавить перерыв"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:584
+#: src/Infrastructure/WP/Translations/BackendStrings.php:596
+msgid "Add Day Off"
+msgstr "Добавить выходной день"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:585
+msgid "Enter holiday or day off name"
+msgstr "Введите название праздника или выходного дня"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:586
+msgid "Add Period"
+msgstr "Добавить период"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:587
+msgid "Add Special Day"
+msgstr "Добавить особый день"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:588
+msgid "Apply to All Days"
+msgstr "Применить ко всем дням"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:589
+msgid "Breaks"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:590
+msgid "Company Days off"
+msgstr "Выходные дни компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:591
+msgid "Company Days Off Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:592
+msgid "Company Working Hours Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:593
+msgid ""
+"You will change working hours setting which is also set for each employee "
+"separately. Do you want to update it for all employees?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:594
+msgid "Day Off name"
+msgstr "Название выходного дня"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:595
+msgid "Days Off"
+msgstr "Выходные дни"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:597
+#: src/Infrastructure/WP/Translations/BackendStrings.php:610
+msgid "Please enter date"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:598
+#: src/Infrastructure/WP/Translations/BackendStrings.php:652
+#: src/Infrastructure/WP/Translations/BackendStrings.php:708
+msgid "Please enter name"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:599
+msgid "Repeat Yearly"
+msgstr "Повторять ежегодно"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:600
+msgid "Edit Company Days off"
+msgstr "Редактировать выходные дни компании"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:601
+msgid "Employee Days off"
+msgstr "Выходные дни сотрудников"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:602
+msgid "Once Off"
+msgstr "Один раз"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:603
+msgid "Pick a date or range"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:604
+msgid "Pick a year"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:605
+msgid "Reflects on"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:606
+msgid "Repeat Every Year"
+msgstr "Ежегодно"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:607
+msgid "Save Special Day"
+msgstr "Сохранить специальный/особый день"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:608
+msgid "Set Break Time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:609
+msgid "Set Work Time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:611
+msgid "Please enter end time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:612
+msgid "Please enter start time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:613
+msgid "Work Hours"
+msgstr "Рабочие часы"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:614
+msgid "Working Hours & Days Off Settings"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:626
+msgid "Delete"
+msgstr "Удалить"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:627
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:628
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:122
+msgid "Please Wait"
+msgstr "Пожалуйста, подождите"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:629
+msgid "Hide"
+msgstr "Скрыть"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:630
+msgid "Show"
+msgstr "Показать"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:631
+msgid "Visible"
+msgstr "Видимый"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:643
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1017
+msgid "Add Location"
+msgstr "Добавить место"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:645
+msgid "Start by clicking the Add Location button"
+msgstr "Для начала нажмите на кнопку \"Добавить место\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:646
+msgid "Are you sure you want to delete this location?"
+msgstr "Вы уверены, что хотите удалить это место?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:647
+msgid "Are you sure you want to duplicate this location?"
+msgstr "Вы уверены, что хотите дублировать это место?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:648
+msgid "Are you sure you want to hide this location?"
+msgstr "Вы уверены, что хотите скрыть это место?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:649
+msgid "Are you sure you want to show this location?"
+msgstr "Вы уверены, что хотите показать это место?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:650
+msgid "Edit Location"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:651
+msgid "Please enter address"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:653
+msgid "Latitude"
+msgstr "Широта"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:654
+msgid "Location Address"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:655
+msgid "Location has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:656
+msgid "Your Location is hidden"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:657
+msgid "Location has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:658
+msgid "Your Location is visible"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:659
+msgid "locations"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:660
+msgid "Search Locations..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:661
+msgid "Longitude"
+msgstr "Долгота"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:662
+msgid "Map"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:663
+msgid "New Location"
+msgstr "Новое место"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:664
+msgid "You don't have any locations here yet..."
+msgstr "У вас здесь ещё нет никаких адресов"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:665
+msgid "This is not the right address?"
+msgstr "Это не правильный адрес?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:666
+msgid "Pin Icon"
+msgstr "Иконка"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:678
+msgid "Add Category"
+msgstr "Добавить категорию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:679
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1052
+msgid "Add Extra"
+msgstr "Добавить дополнение"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:680
+msgid "Add Image"
+msgstr "Добавить фото"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:681
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1018
+msgid "Add Service"
+msgstr "Добавить услугу"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:682
+msgid "Available Images"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:683
+msgid "Show \"Bringing anyone with you\" option"
+msgstr "Показать опцию \"Привести кого-либо с собой\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:684
+msgid ""
+"Hide this option to allow only individual people to<br/>book a group "
+"appointment without the possibility<br/>to come with somebody."
+msgstr ""
+"Скрыть эту опцию, чтобы только отдельные люди<br/> могли забронировать "
+"групповую встречу без возможности<br/> прийти с кем-то."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:685
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:212
+msgid "Categories"
+msgstr "Категории"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:686
+msgid "Unable to delete category"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:687
+msgid "Categories positions has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:688
+msgid "Unable to save categories positions"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:689
+msgid "Category"
+msgstr "Категория"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:690
+msgid "Unable to add category"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:691
+msgid "Category has been deleted"
+msgstr "Категория была удалена"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:692
+msgid "Category has been duplicated"
+msgstr "Категория была дублирована"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:693
+msgid "Category has been saved"
+msgstr "Категория была сохранена"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:694
+msgid "Unable to save category"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:695
+msgid "Start by clicking the Add Category button"
+msgstr "Для начала нажмите на кнопку \"Добавить категорию\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:696
+msgid "Start by clicking the Add Service button"
+msgstr "Для начала нажмите на кнопку \"Добавить услугу\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:697
+msgid "Are you sure you want to delete this service?"
+msgstr "Вы уверены, что хотите удалить эту услугу?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:698
+msgid "Are you sure you want to duplicate this service?"
+msgstr "Вы уверены, что хотите дублировать эту услугу?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:699
+msgid ""
+"You will change a setting which is also set for each employee separately. Do "
+"you want to update it for all employees?"
+msgstr ""
+"Вы измените настройку, которая также устанавливается для каждого сотрудника "
+"отдельно. Вы хотите обновить его для всех сотрудников?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:700
+msgid "Are you sure you want to hide this service?"
+msgstr "Вы уверены, что хотите скрыть эту услугу?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:701
+msgid "Are you sure you want to show this service?"
+msgstr "Вы уверены, что хотите показать эту услугу?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:702
+msgid "Are you sure you want to delete this category"
+msgstr "Вы уверены, что хотите удалить эту категорию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:703
+msgid "Are you sure you want to delete this extra"
+msgstr "Вы уверены, что хотите удалить это дополнение"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:704
+msgid "Edit Service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:705
+msgid "Please enter extra name"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:706
+msgid "Please enter extra price"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:707
+msgid "Price must be non-negative number"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:709
+msgid "Please enter price"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:710
+msgid "Unable to delete extra"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:711
+msgid "Gallery"
+msgstr "Галерея"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:712
+msgid "Hex"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:713
+msgid "Maximum Capacity"
+msgstr "Максимальная мощность"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:714
+msgid "Here you can set the maximum number of persons<br/>per one appointment."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:715
+msgid "Maximum Quantity"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:716
+msgid "Minimum Capacity"
+msgstr "Минимальная мощность"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:717
+msgid ""
+"Here you can set the minimum number of persons<br/>per one booking of this "
+"service."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:718
+msgid "New Category"
+msgstr "Новая категория"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:719
+msgid "New Service"
+msgstr "Новая услуга"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:720
+msgid "You don't have any categories here yet..."
+msgstr "Вы не имеете здесь какие-либо категории..."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:722
+msgid "Please select category"
+msgstr "Выберите категорию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:723
+msgid "Please select duration"
+msgstr "Выберите продолжительность"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:724
+msgid "Please select select at least one employee"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:725
+msgid "Buffer Time After"
+msgstr "Буферное время после"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:726
+msgid ""
+"Time after the appointment (rest, clean up, etc.),<br/>when another booking "
+"for same service and<br/>employee cannot be made."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:727
+msgid "Buffer Time Before"
+msgstr "Буферное время до"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:728
+msgid ""
+"Time needed to prepare for the appointment, when<br/>another booking for "
+"same service and employee<br/>cannot be made."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:729
+msgid "Service has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:730
+msgid "Service Details"
+msgstr "Детали услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:731
+msgid "Service is hidden"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:732
+#: src/Infrastructure/WP/Translations/BackendStrings.php:810
+msgid "Provider has appointments for this service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:733
+msgid "Service has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:734
+msgid "Service is visible"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:735
+msgid "Services positions has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:736
+msgid "Unable to save services positions"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:737
+msgid "Sort Services:"
+msgstr "Метод сортировки:"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:738
+msgid "Custom"
+msgstr "Обычно"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:741
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:161
+msgid "Price Ascending"
+msgstr "По возрастанию цены"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:742
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:162
+msgid "Price Descending"
+msgstr "По убыванию цены"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:755
+#: src/Infrastructure/WP/Translations/BackendStrings.php:965
+msgid "Create New"
+msgstr "Создать новый"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:757
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:96
+msgid "Please enter first name"
+msgstr "Введите имя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:758
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:97
+msgid "Please enter last name"
+msgstr "Введите фамилию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:759
+msgid "First Name"
+msgstr "Имя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:760
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:761
+msgid "Select or Create New"
+msgstr "Выберите или Создайте нового"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:762
+msgid "WordPress User"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:763
+msgid ""
+"Here you can map a WordPress user to the customer if<br/>you want to give "
+"customers access to the list of their<br/>appointments in the back-end of "
+"the plugin."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:764
+msgid ""
+"Here you can map a WordPress user to the employee if<br/>you want to give "
+"employee access to the list of their<br/>appointments in the back-end of the "
+"plugin."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:777
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1016
+msgid "Add Employee"
+msgstr "Добавить сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:778
+msgid "Assigned Services"
+msgstr "Назначение услуг"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:779
+msgid "Available"
+msgstr "Доступен"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:780
+msgid "Away"
+msgstr "Не доступен"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:781
+msgid "On Break"
+msgstr "Перерыв"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:782
+msgid "Busy"
+msgstr "Занят"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:783
+msgid "Capacity"
+msgstr "Мощность"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:784
+msgid "Start by clicking the Add Employee button"
+msgstr "Для начала нажмите на кнопку \"Добавить сотрудника\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:785
+msgid "Are you sure you want to delete this employee?"
+msgstr "Вы уверены, что хотите удалить этого сотрудника?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:786
+msgid "Are you sure you want to duplicate this employee?"
+msgstr "Вы уверены, что хотите дублировать этого сотрудника?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:787
+msgid "Are you sure you want to hide this employee?"
+msgstr "Вы уверены, что хотите спрятать этого сотрудника?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:788
+msgid "Are you sure you want to show this employee?"
+msgstr "Вы уверены, что хотите показать этого сотрудника?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:789
+msgid "Connect"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:790
+msgid "Day Off"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:791
+msgid "Disconnect"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:792
+msgid "Edit Employee"
+msgstr "Редактировать сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:793
+msgid "Employee has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:794
+msgid "Employee is hidden"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:795
+msgid "Employee can not be deleted because of the future appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:796
+msgid "Employee has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:797
+msgid "Search Employees..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:798
+msgid "Employee is visible"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:799
+msgid "Employees have been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:800
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:94
+msgid "employees"
+msgstr "сотрудников"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:801
+msgid "Employees could not be deleted because of the future appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:802
+msgid "Please select location"
+msgstr "Выберите место"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:803
+msgid "Unable to connect to Google Calendar"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:804
+msgid ""
+"Here you can connect with your Google Calendar,<br/>so once the appointment "
+"is scheduled it will be<br/>automatically added to your calendar."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:805
+msgid "Grid View"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:806
+msgid "New Employee"
+msgstr "Новый сотрудник"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:807
+msgid "Applied for all assigned services"
+msgstr "Применяется для всех назначенных услуг"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:808
+msgid "Select specific services for each period."
+msgstr "Выбрать конкретные услуги для каждого периода."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:811
+msgid "Provider has appointments for"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:812
+msgid "Special Days"
+msgstr "Специальные/Особые Дни"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:813
+msgid "Reflect On"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:814
+msgid "Table View"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:826
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1015
+msgid "Add Customer"
+msgstr "Добавить клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:827
+msgid "Start by clicking the Add Customer button"
+msgstr "Для начала нажмите на кнопку \"Добавить клиента\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:828
+msgid "Are you sure you want to delete this customer?"
+msgstr "Вы уверены, что хотите удалить этого клиента?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:829
+msgid "Customer has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:830
+msgid "Customer can not be deleted because of the future appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:832
+msgid "Customer has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:833
+#: src/Infrastructure/WP/Translations/BackendStrings.php:969
+msgid "Customers"
+msgstr "Клиенты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:834
+msgid "Customers have been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:835
+msgid "customers"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:836
+msgid "Customers could not be deleted because of the future appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:837
+msgid "Search Customers..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:838
+msgid "Date of Birth"
+msgstr "День рождения"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:839
+msgid "Edit Customer"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:841
+msgid "You can use this option to export customers in CSV file."
+msgstr "Этот параметр можно использовать для экспорта клиентов в CSV-файл."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:842
+msgid "Gender"
+msgstr "Пол"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:843
+msgid "Last Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:844
+msgid "Last Appointment Ascending"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:845
+msgid "Last Appointment Descending"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:846
+msgid "New Customer"
+msgstr "Новый клиент"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:847
+msgid "You don't have any customers here yet..."
+msgstr "У вас нет здесь каких-либо клиентов..."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:850
+msgid "Select Date of Birth"
+msgstr "Выберите дату рождения"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:851
+msgid "Total Appointments"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:863
+msgid "Amount"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:864
+msgid "Booking Start"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:865
+msgid "Code"
+msgstr "Код"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:866
+msgid ""
+"Here you need to define a coupon code which customers will<br/>enter in "
+"their booking so they can get a discount."
+msgstr ""
+"Здесь вам нужно определить код купона, который клиенты будут<br/> вводить в "
+"своем бронировании, чтобы они могли получить скидку."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:867
+msgid "Are you sure you want to delete this coupon?"
+msgstr "Вы уверены, что хотите удалить этот купон?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:868
+msgid "Are you sure you want to duplicate this coupon?"
+msgstr "Вы уверены, что хотите дублировать этот купон?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:869
+msgid "Are you sure you want to hide this coupon?"
+msgstr "Вы уверены, что хотите спрятать этот купон?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:870
+msgid "Are you sure you want to show this coupon?"
+msgstr "Вы уверены, что хотите показать этот купон?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:871
+msgid "Coupon has been deleted"
+msgstr "Купон был удален"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:872
+msgid "Your Coupon is hidden"
+msgstr "Ваш купон скрыт"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:873
+msgid "Coupon has not been deleted"
+msgstr "Купон не был удален"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:874
+msgid "Coupon has been saved"
+msgstr "Купон был сохранен"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:875
+msgid "Coupon usage limit must be at least 1"
+msgstr "Лимит использования купона должна быть не менее 1"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:876
+msgid "Your Coupon is active"
+msgstr "Ваш купон активирован"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:878
+msgid "Coupons have been deleted"
+msgstr "Купоны были удалены"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:879
+msgid "coupons"
+msgstr "купонов"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:880
+msgid " & Other Services"
+msgstr "и другие услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:881
+msgid "Coupons have not been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:882
+#: src/Infrastructure/WP/Translations/BackendStrings.php:967
+msgid "Customer Email"
+msgstr "Почта клиента"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:883
+msgid "Deduction"
+msgstr "Вычет"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:884
+msgid "Edit Coupon"
+msgstr "Редактировать купон"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:885
+msgid "Employee Email"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:886
+msgid "Please enter code"
+msgstr "Введите код"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:887
+msgid "You can use this option to export coupons in CSV file."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:888
+msgid ""
+"You can use this option to export payments in CSV file<br/>for the selected "
+"date range."
+msgstr ""
+"Этот параметр можно использовать для экспорта клиентов в CSV-файл<br/> для "
+"выбранного диапазона времени."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:889
+msgid "Search Coupons"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:890
+msgid "Limit"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:891
+msgid "Method"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:892
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1034
+msgid "New Coupon"
+msgstr "Новый купон"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:893
+msgid "Coupon needs to have discount or deduction"
+msgstr "Купон должен иметь скидку или вычет"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:894
+msgid "You don't have any coupons here yet"
+msgstr "У вас еще нет купонов"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:895
+msgid "You don't have any payments here yet"
+msgstr "У вас еще нет никаких платежей"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:896
+msgid "Select at least one service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:898
+msgid "Payment date"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:902
+msgid "Select All Service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:903
+msgid "Select the services for which the coupon can be used."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:904
+msgid "Times Used"
+msgstr "Использовано:"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:905
+msgid "Usage Limit"
+msgstr "Лимит использования"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:906
+msgid ""
+"Here you need to define the number of coupons for use. After the<br/>limit "
+"is reached your coupon will become unavailable."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:907
+msgid "Used"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:919
+msgid "Appointment Date"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:920
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:67
+msgid "Appointment Info"
+msgstr "Информация о заказе"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:921
+msgid "Are you sure you want to delete this payment?"
+msgstr "Вы уверены, что хотите удалить этот платеж?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:922
+msgid "Discount (%)"
+msgstr "Скидка (%)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:923
+msgid "Discount"
+msgstr "Скидка"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:924
+msgid "Due"
+msgstr "Задолжность"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:925
+msgid "Enter new payment amount"
+msgstr "Введите новую сумму платежа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:926
+msgid "Finance"
+msgstr "Финансы"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:928
+msgid "Payment has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:929
+msgid "Payment Details"
+msgstr "Детали платежа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:930
+msgid "Payment Method"
+msgstr "Метод оплаты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:931
+msgid "Payment has not been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:932
+msgid "Payment has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:933
+msgid "Payments have been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:934
+msgid "Payments have not been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:935
+msgid "Service Price"
+msgstr "Цена услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:936
+msgid "Subtotal"
+msgstr "Итого"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:948
+msgid "Appointment has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:949
+msgid "Appointment has not been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:950
+msgid "Appointment has been saved"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:951
+msgid "Appointment status has been changed to "
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:953
+msgid "Appointments have been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:954
+msgid "Appointment have not been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:955
+msgid "Search for Customers, Employees, Services..."
+msgstr "Поиск по клиентам, сотрудникам и услугам."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:956
+msgid "Assigned"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:957
+msgid "Assigned to"
+msgstr "Назначено"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:958
+msgid "Cancel Appointment"
+msgstr "Отменить заказ"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:959
+msgid "Change group status"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:960
+msgid "Choose a group service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:961
+msgid "Start by clicking the New Appointment button"
+msgstr "Для начала нажмите на кнопку \"Добавить заказ\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:962
+msgid "Are you sure you want to delete this appointment?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:963
+msgid "Are you sure you want to duplicate this appointment?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:964
+msgid "Create Customer"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:968
+msgid "Customer Phone"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:970
+msgid "Customer(s)"
+msgstr "Клиент(ы)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:971
+msgid ""
+"Here you can define the number of people that are coming<br/>with this "
+"customer. The number you can choose depends<br/>on the service and employee "
+"capacity."
+msgstr ""
+"Здесь вы можете определить количество людей, которые приходят<br/> с этим "
+"клиентом. Номер, который вы можете выбрать,<br/> зависит от сервиса и "
+"возможностей сотрудников."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:972
+msgid "Edit Appointment"
+msgstr "Редактирование заказа"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:973
+msgid "End Time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:974
+msgid ""
+"You can use this option to export appointments in CSV file<br/>for the "
+"selected date range."
+msgstr ""
+"Этот параметр можно использовать для экспорта встреч в CSV-файл<br/> для "
+"выбранного диапазона дат."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:975
+msgid "Minimum number of persons for bookings to approve appointment is"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:976
+msgid "Multiple Emails"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:977
+msgid "New Appointment"
+msgstr "Новый заказ"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:978
+msgid "You don't have any appointments here yet..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:979
+msgid "There are no selected customers"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:980
+msgid "Select customer, employee and service"
+msgstr "Выберите клиент(а/ов), сотрудника и услугу"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:981
+msgid "Select customer and service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:982
+msgid "Notify the customer(s)"
+msgstr "Уведомить клиент(а/ов)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:983
+msgid ""
+"Check this checkbox if you want your customer to<br/>receive an email about "
+"the scheduled appointment."
+msgstr ""
+"Установите этот флажок, если вы хотите, чтобы ваш клиент получил электронное "
+"письмо о запланированном заказе."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:984
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:124
+msgid "This field is required"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:985
+msgid "Schedule"
+msgstr "График"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:986
+msgid "Please select at least one customer"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:987
+msgid "Select Customer(s)"
+msgstr "Выберите клиент(а/ов)"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:988
+msgid "Please select date"
+msgstr "Выберите дату"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:989
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1101
+msgid "Select Employee"
+msgstr "Выберите сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:990
+msgid "Please select employee"
+msgstr "Выберите сотрудника"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:991
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1102
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:171
+msgid "Select Location"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:992
+msgid "Maximum number of places is"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:993
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1103
+msgid "Select Service"
+msgstr "Выберите услугу"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:994
+msgid "Select Service Category"
+msgstr "Выберите категорию услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:995
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1073
+msgid "Please select service"
+msgstr "Выберите услугу"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:996
+msgid "Please select time"
+msgstr "Выберите время"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:997
+msgid "Selected Customers"
+msgstr "Выбранные клиенты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:998
+msgid "Service Category"
+msgstr "Категория услуги"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:999
+msgid "This service does not have any extras"
+msgstr "Эта услуга не имеет какие-либо дополнения"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1000
+msgid "Start Time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1002
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:131
+msgid "Time slot is unavailable"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1003
+msgid "View Payment Details"
+msgstr "Посмотреть детали оплаты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1019
+msgid "All"
+msgstr "Все"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1020
+msgid "All employees"
+msgstr "Все сотрудники"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1021
+msgid "This will change the time of the appointment. Continue?"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1022
+msgid ""
+"Appointment can't be moved because of employee break in the selected period"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1023
+msgid ""
+"There is already an appointment for this employee in selected time period"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1024
+msgid ""
+"Appointment can't be moved because the employee doesn't provide this service "
+"at the selected time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1025
+msgid "Appointment can't be moved in past time period"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1026
+msgid "Appointment can't be moved out of employee working hours"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1027
+msgid "Appointment has been rescheduled"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1029
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:76
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1030
+msgid "Day"
+msgstr "День"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1031
+msgid "Group booking"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1032
+msgid "List"
+msgstr "Список"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1033
+msgid "Month"
+msgstr "Месяц"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1035
+msgid "No appointments to display"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1036
+msgid "Timeline"
+msgstr "Временная линия"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1039
+msgid "Week"
+msgstr "Неделя"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1051
+msgid "Add Custom Field"
+msgstr "Добавить пользовательское поле"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1053
+msgid "Add Option"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1054
+msgid "All services"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1055
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:189
+msgid "Any Employee"
+msgstr "Любой сотрудник"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1056
+msgid "Bringing Anyone with You?"
+msgstr "Вы приведёте кого-нибудь с собой?"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1057
+msgid "Checkbox"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1058
+msgid "Start by clicking the Add Custom Field button"
+msgstr ""
+"Для начала нажмите на кнопку \"Добавить настраиваемое/пользовательское поле\""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1059
+msgid "Colors & Fonts"
+msgstr "Цвета и шрифты"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1060
+msgid "Text Content"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1061
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:192
+msgid "Continue"
+msgstr "Продолжить"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1063
+msgid "Custom field has been added"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1064
+msgid "Custom field has been deleted"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1065
+msgid "Unable to save custom fields positions"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1066
+msgid "Customize"
+msgstr "Персонализация"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1067
+msgid "Font"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1068
+msgid "Label"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1069
+msgid "You don't have any custom fields here yet..."
+msgstr "У вас пока нет пользовательских полей..."
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1070
+msgid "Notification Placeholder"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1071
+msgid "Options"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1072
+msgid "Pick date & time"
+msgstr "Выберите дату и время"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1074
+msgid "Primary Color"
+msgstr "Первичный цвет"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1075
+msgid "Primary Gradient"
+msgstr "Первичный градиент"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1076
+msgid "Radio Buttons"
+msgstr "Кнопки Radio"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1077
+msgid "Required"
+msgstr "Обязательный"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1078
+msgid "Reset"
+msgstr "Сброс"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1079
+msgid "Selectbox"
+msgstr "Selectbox"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1080
+msgid "Text"
+msgstr "Текст"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1081
+msgid "Text Area"
+msgstr "Text Area"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1082
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1083
+msgid "Text Color on Background"
+msgstr "Цвет текста на фоне"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1093
+msgid "Booking"
+msgstr "Бронирование"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1094
+msgid "Catalog"
+msgstr "Каталог"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1095
+msgid "Preselect Booking Parameters"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1096
+msgid "Insert Amelia Booking Shortcode"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1097
+msgid "Search"
+msgstr "Поиск"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1098
+msgid "Preselect Current Date"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1099
+msgid "Select Catalog View"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1100
+msgid "Select Category"
+msgstr "Выберите категорию"
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1104
+msgid "Select View"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1105
+msgid "Show all categories"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1106
+msgid "Show all employees"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1107
+msgid "Show all locations"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1108
+msgid "Show all services"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1109
+msgid "Show catalog of all categories"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1110
+msgid "Show specific category"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/BackendStrings.php:1111
+msgid "Show specific service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:65
+msgid "Add Coupon"
+msgstr "Добавить купон"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:66
+msgid "Add to Calendar"
+msgstr "Добавить в календарь"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:68
+msgid "Back"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:69
+msgid "Base Price:"
+msgstr "Базовая цена:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:70
+msgid "Thank you! Your booking is completed."
+msgstr "Вы успешно забронировали. Спасибо что доверяете нам!"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:71
+msgid "An email with details of your booking has been sent to you."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:72
+msgid "Thank you! Your booking is completed and now is pending confirmation."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:74
+msgid "Capacity:"
+msgstr "Мощность:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:75
+msgid "Client Time:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:77
+msgid "Congratulations"
+msgstr "Успех"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:78
+msgid "This coupon is not valid anymore"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:79
+msgid "Please enter coupon"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:80
+msgid "The coupon you entered is not valid"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:81
+msgid "Used coupon"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:82
+msgid "Credit Card"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:83
+msgid "Credit or debit card:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:85
+msgid "You have already booked this appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:87
+msgid "Discount:"
+msgstr "Скидка:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:88
+msgid "Duration:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:90
+msgid "Email already exists with different name. Please check your name."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:91
+msgid "Unfortunately a server error occurred and your email was not sent."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:93
+msgid "employee"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:98
+msgid "Please enter phone number"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:101
+msgid "Extras Cost:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:102
+msgid "Finish"
+msgstr "Завершить"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:103
+msgid "First Name:"
+msgstr "Имя:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:105
+msgid "Your card's security code is incomplete"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:106
+msgid "Your card's expiration date is incomplete"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:107
+msgid "Your card number is incomplete"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:108
+msgid "Your postal code is incomplete"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:109
+msgid "Your card's expiration year is in the past"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:110
+msgid "Your card number is invalid"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:111
+msgid "Last Name:"
+msgstr "Фамилия:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:112
+msgid "Location:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:115
+msgid "Number of Additional Persons:"
+msgstr "Количество дополнительных лиц:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:118
+msgid ""
+"Sorry, there was an error processing your payment. Please try again later."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:119
+msgid "Payment Method:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:120
+msgid "persons"
+msgstr "персоны"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:123
+msgid "Price:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:125
+msgid "Select Calendar"
+msgstr "Добавить в календарь"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:126
+msgid "service"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:127
+msgid "services"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:129
+msgid "Subtotal:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:130
+msgid "Local Time:"
+msgstr "Время:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:132
+msgid "Total Cost:"
+msgstr "К оплате:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:133
+msgid "Total Number of Persons:"
+msgstr "Количество заказчиков:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:134
+msgid "Waiting for payment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:135
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:137
+msgid "On-line"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:136
+msgid "Appointment is removed from the cart."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:138
+msgid "Sorry, there was an error while adding booking to WooCommerce cart."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:139
+msgid "Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:151
+msgid "Appointment Date:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:152
+msgid "Book"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:153
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:191
+msgid "Bringing anyone with you?"
+msgstr "Вы приведёте кого-нибудь с собой?"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:154
+msgid "Please enter appointment date..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:155
+msgid "From"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:158
+msgid "Next"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:159
+msgid "No results found..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:163
+msgid "Please refine your search criteria"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:164
+msgid "results"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:165
+msgid "Search..."
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:166
+msgid "Search Filters"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:167
+msgid "Search Results"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:168
+msgid "Select"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:169
+msgid "Select the Appointment Time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:170
+msgid "Select the Extras you'd like"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:173
+msgid "Time Range:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:175
+msgid "To"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:187
+msgid "Add extra"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:188
+msgid "Any"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:190
+msgid "Book Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:193
+msgid "Extra:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:194
+msgid "Person"
+msgstr "Персона"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:195
+msgid "Persons"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:196
+msgid "Pick date & time:"
+msgstr "Выберите дату и время:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:197
+msgid "Please select"
+msgstr "Выберите"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:198
+msgid "Qty:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:210
+msgid "Booking Appointment"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:211
+msgid "Buffer Time"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:213
+msgid "Category:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:215
+msgid "Description:"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:217
+msgid "Info"
+msgstr ""
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:218
+msgid "Maximum Quantity:"
+msgstr "Максимальное количество:"
+
+#: src/Infrastructure/WP/Translations/FrontendStrings.php:219
+msgid "View More"
+msgstr ""
+
+#: src/Infrastructure/WP/config/Roles.php:92
+msgid "Amelia Customer"
+msgstr ""
+
+#: src/Infrastructure/WP/config/Roles.php:106
+msgid "Amelia Employee"
+msgstr ""
+
+#: src/Infrastructure/WP/config/Roles.php:124
+msgid "Amelia Manager"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Amelia"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpamelia.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Amelia is a simple yet powerful automated booking specialist, working 24/7 "
+"to make sure your customers can make appointments even while you sleep!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TMS"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://tms-outsource.com/"
+msgstr ""
